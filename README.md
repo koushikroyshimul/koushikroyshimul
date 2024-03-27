@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/koushikroyshimul/koushikroyshimul/blob/main/maxresdefault.jpeg" width="400" height="400" alt="logo" />
+  <img src="https://github.com/koushikroyshimul/koushikroyshimul/blob/main/maxresdefault.jpeg"alt="logo" />
 </p>
 <h1 align="center">Hey there, I'm Koushik Roy</h1>
 <h3 align="center">Welcome to my github profile. I'm a Flutter and Android developer passionate about creating user-friendly apps that make a difference. Let's collaborate and turn your ideas into reality!"</h3>
