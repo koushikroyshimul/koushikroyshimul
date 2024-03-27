@@ -5,7 +5,7 @@
 <h4 align="center">Hey there, I'm Koushik Roy</h4>
 <h6 align="center">Welcome to my github profile. I'm a Flutter and Android developer passionate about creating user-friendly apps that make a difference. Let's collaborate and turn your ideas into reality!"</h6>
 
-<img align="right" alt="coding" width="500" src="https://github.com/koushikroyshimul/koushikroyshimul/blob/main/1_MmLp2x6cMbr27HdRI9OSTg.gif">
+<img align="right" alt="coding" width="450" src="https://github.com/koushikroyshimul/koushikroyshimul/blob/main/1_MmLp2x6cMbr27HdRI9OSTg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikroyshimul&label=Profile%20views&color=0e75b6&style=flat" alt="koushikroyshimul" /> </p>
 
