@@ -6,6 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikroyshimul&label=Profile%20views&color=0e75b6&style=flat" alt="koushikroyshimul" /> </p>
 
+- 💼 I’m currently working on **ePolli** as an intern.
+
+- 💼 I’m currently working on **ZenithhBD** as an intern software developer.
+
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **rkoushik755@gmail.com**
